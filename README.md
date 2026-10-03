@@ -25,6 +25,7 @@ above as the actual working app, and use this repo just to track changes to the 
 - Day: GHS 15 (base rate)
 - Week: 15 × school days per week (default 5 → GHS 75)
 - Term: 15 × days/week × weeks/term (default 13 weeks → GHS 975)
+- live app  coming soon.
 
 ## Project structure
 ```
